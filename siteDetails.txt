@@ -1,0 +1,8 @@
+##Color Codes
+black       :#221C1C
+red         :#DB1519
+gray        :#b3afae
+
+
+$config['smtp_user'] = 'prashant.more9763@gmail.com';
+$config['smtp_pass'] = 'psm997510';
